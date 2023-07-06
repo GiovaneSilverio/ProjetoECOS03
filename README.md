@@ -7,4 +7,4 @@ O professor Otávio Gomes foi o responsável pela condução da disciplina.
 O objetivo é praticar os conceitos de programação (ponteiro de função, ponteiro para
 void e buffer circular) e sistemas operacionais (escalonadores) na construção de nano
 kernel preemptivo. O projeto foi testado, está parcialmente funcional e uma breve 
-explicação do projeto pode ser vista em <link>
+explicação do projeto pode ser vista em <https://youtu.be/13GPGUPEomE>
