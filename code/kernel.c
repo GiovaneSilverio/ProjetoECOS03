@@ -92,9 +92,6 @@ void kernelLoop(void) { //loop de execução
       //execução dos processos restantes do buffer após todos os processos
       //do arquivo terem sido lidos
       while (circular_buffer.exec() != FAIL) {
-        //atualiza a prioridade do processo para que ele seja marcado com 'executado'
-        //buffer
-        processes[start - 1].priority = 0;
       }
       fclose(input);     //fecha o arquivo de processos
       kernelScheduler();  //muda para o próximo estado, para executar o próximo algoritmo
