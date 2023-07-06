@@ -17,7 +17,7 @@ FILE *input;
 //==========================
 // Definições
 //==========================
-#define MAX_PROCESSES 11
+#define MAX_PROCESSES 10
 #define MAX_QUEUE_SIZE 20
 #define MAX_NUM_QUEUES 10
 
